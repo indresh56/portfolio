@@ -1,0 +1,78 @@
+#top {
+    font-family: cursive;
+    text-align: center;
+    color: blueviolet;
+    padding-top: 30px;
+}
+
+#profile {
+    height: 400px;
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20%;
+    margin-top: 150px;
+}
+
+/*.belownav {
+    background: center/70% url("pictures/headerbg.jpg");
+
+
+}*/
+#aboutme {
+    font-family: system-ui;
+    font-weight: 600;
+
+}
+
+/*.about {
+    display: block;
+    height: 300px;
+    width: 200px;
+
+    /* 100% of the viewport height
+}*/
+#contact {
+    font-weight: 500;
+}
+
+#applybg2 {
+    /*background-color: #66BFBF;*/
+    background-image: url("pictures/headerbg2.jpg");
+    background-position: center;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+#Skills {
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+}
+
+#Skills h2 {
+    color: blueviolet;
+}
+
+.skills {
+    font-weight: 600;
+}
+
+.skills {
+
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-image: url('pictures/headerbg.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
